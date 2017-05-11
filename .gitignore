@@ -6,3 +6,5 @@ compiler.jar
 yuicompressor.jar
 minify.bat
 mobiscroll.full.*
+build
+node_modules
